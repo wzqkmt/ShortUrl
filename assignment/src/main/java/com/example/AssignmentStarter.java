@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AssignmentStarter {
 
     public static void main(String[] args) {
+//        这真是最简单的启动类了
         SpringApplication.run(AssignmentStarter.class,args);
     }
 }
