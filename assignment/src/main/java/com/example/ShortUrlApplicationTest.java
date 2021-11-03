@@ -12,6 +12,6 @@ import org.junit.runners.Suite;
         DomainNameServiceImplTest.class
 })
 public class ShortUrlApplicationTest {
-
+//这个测试类就是为了同时跑DomainNameValidatorTest和DomainNameServiceImplTest这两个类
 
 }
