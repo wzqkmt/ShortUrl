@@ -6,8 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.Serializable;
 
 @ApiModel("短域名对象")
-public class
-ShortUrlVo implements Serializable {
+public class ShortUrlVo implements Serializable {
 //这个序列化的底层原理需要深入了解一下
     private static final long serialVersionUID = 8595399514967770543L;
 
